@@ -27,3 +27,13 @@ NO NEED TO USE BATCHNORM2D. Do the experiment without that layer.
 **Deliverables:**
 - The colab notebook(s) downloaded in .ipynb format
 - Screenshot of the training loss and testing accuracy as .png/.tiff files.
+
+## Assignment3
+Use the DCGAN architecture as shown in the tutorial and train the same architecture on
+a publicly available dataset of your choice. Don’t use CIFAR or MNIST. Train it for 5
+epochs. Don’t take a large dataset. Even if you select a large dataset discard some and
+use a miniature version of that dataset.
+
+**Deliverables:**
+- Submit your code (colab notebook(s)) downloaded in ipynb format
+- Submit screenshots of your generated fake images and the training loss of your GAN.
