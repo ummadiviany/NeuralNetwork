@@ -1,0 +1,1 @@
+Due to limitaitons of the Colab Runtime and limited GPU access I have trained the ResNet for 2-epochs only. 
