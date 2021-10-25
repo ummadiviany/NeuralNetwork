@@ -37,3 +37,17 @@ use a miniature version of that dataset.
 **Deliverables:**
 - Submit your code (colab notebook(s)) downloaded in ipynb format
 - Submit screenshots of your generated fake images and the training loss of your GAN.
+
+## Assignment4
+Train the same image captioning network which is described in the tutorial video
+till 5th epoch and run the inference on at least 5 more test images from any
+natural image dataset using the saved model at different epochs (e.g. 1
+images/epoch trained model).
+Repeat the above mentioned task by using pretrained vgg network as encoder
+(you can choose any vgg network) for 1 epoch and run inference on 2 images.
+
+**Deliverables:**
+- The screenshots of generated captions for 7 images with images (keep
+small images).
+- The screenshots of loss value after first epoch for both the trainings and
+after 5th epoch for former training.
