@@ -51,3 +51,17 @@ Repeat the above mentioned task by using pretrained vgg network as encoder
 small images).
 - The screenshots of loss value after first epoch for both the trainings and
 after 5th epoch for former training.
+
+## Assignment5
+1. Train the same Autoencoder network which is been described in the
+tutorial video till 20th epoch and run inference on at least 5 test images.
+Visualize features at bottleneck and submit the screenshots of test images
+and visualization of features at bottleneck as images.
+
+2. Modify the Autoencoder network by including convolution layer (1 or 2) in
+encoder part. For the decoder part you are free to include only linear layer
+or deconvolution layer or combination of both. Train the modified network
+till 20th epoch and submit screenshots of inferences (on 2 images). 
+
+**Deliverables:**
+- Submit the code as ipynb file.
